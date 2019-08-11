@@ -1,8 +1,8 @@
 ## code your solution here.
-def Cat 
-  attr_accessor :name 
+def Cat
+  attr_accessor :name
 
-  def meow 
+  def meow
     puts "meow!"
-end
+  end
 end
